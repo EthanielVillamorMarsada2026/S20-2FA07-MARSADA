@@ -1,0 +1,8 @@
+event_title = input("Enter the name of the event: ")
+year = input("Enter the year of the event: ")
+month = input("Enter the month of the event: ")
+day = input("Enter the day of the event(1-31): ")
+print(event_title)
+print(year)
+print(month)
+print(day)
